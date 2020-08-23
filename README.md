@@ -19,7 +19,7 @@ NoteBot was originally created by zeairmouse AKA Victormeriqui
 (If you know all the blocks are already tuned, like in the NoteBot world, click all the "Map" buttons and then click all the "Override" buttons and skip to step 13)
 9. Click the top "Discover" button, exit the gui using "G" again and wait for all the blocks in that category to be clicked
 10. Repeat for all the "Discover" buttons
-11. Click the top "Discover" button, exit the gui using "G" again and wait for all the blocks in that category to be tuned
+11. Click the top "Tune" button, exit the gui using "G" again and wait for all the blocks in that category to be tuned
 12. Repeat for all the "Tune" buttons
 13. Click the midi converter tab and convert the desired midi file
 14. Change to the editor tab, choose the midi file you just converted, and assign instruments to each track with the change instrument button then save
