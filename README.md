@@ -26,7 +26,7 @@ NoteBot was originally created by zeairmouse AKA Victormeriqui
 15. Change to the player tab and pick the song you just converted then press play
 
 # Quick N' Dirty Ports (QNDP)
-No support will be provided for these, think of them as a beta to what I may eventually release, thse typically have very few bug fixes, have some broken features, and are generally not reccomended, at the very least i've confirmed they work somewhat and sometimes
+No support will be provided for these, think of them as a beta to what I may eventually release, they typically have very few bug fixes, have some broken features, and are generally not reccomended, at the very least i've confirmed they work somewhat and sometimes
 
 
 # Contributing
